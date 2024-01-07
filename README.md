@@ -1,4 +1,4 @@
-Team Lead with 8+ years of experience. Efficient in C#, .Net Framework, .NET Core. Experienced in planning, designing, and developing software from early requirement analysis to maintenance. Specialized in performance improvement and handling large-scale RESTful-API.
+Team Lead with 10+ years of experience. Efficient in C#, .Net Framework, .NET Core. Experienced in planning, designing, and developing software from early requirement analysis to maintenance. Specialized in performance improvement and handling large-scale RESTful-API.
 
 Specialties:
 
